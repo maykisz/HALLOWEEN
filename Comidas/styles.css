@@ -1,0 +1,19 @@
+*{
+    font-family: Montserrat;
+}
+
+
+.navbar{
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+}
+
+.pesquisa a{
+    text-decoration: none;
+}
+
+.pesquisa a{
+    gap: 50rem;
+}
+
